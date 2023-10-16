@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>javascript</title>
+</head>
+<body>
+    <h1>javascript</h1>
+    <script>
+        let x = 5;
+        let y = 2;
+        let z = x + y;
+        console.log(z);
+        </script>
+    
+</body>
+</html>
